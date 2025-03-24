@@ -1,3 +1,4 @@
+![Me](./headshot.jpg)
 - 👋 Hi, I’m Willna
 - 👀 Some people journal. I create models.
 - 🌱 I’m currently learning TensorFlow & PyTorch
