@@ -1,4 +1,6 @@
-![Me](./headshot.jpg)
+<p align="center">
+  <img src="./headshot.jpg" alt="Willna's Headshot" width="150"/>
+</p>
 - 👋 Hi, I’m Willna
 - 👀 Some people journal. I create models.
 - 🌱 I’m currently learning TensorFlow & PyTorch
