@@ -4,7 +4,7 @@
 - 👀 Some people journal. I train models.
 - 🌱 I’m currently learning TensorFlow & PyTorch
 - 💞️ Right now I’m building an intuitive music playlist generator to avoid the five minutes sat in the car looking for what to play.
-- 📫 How to reach me: willnagoma@gmail.com
+- 📫 How to reach me: hello@ritmomusic.app
 - ⚡ Fun fact: I'm a Data Science graduate student
 - ✨Always learning. Always curious.  Always debugging.
 
